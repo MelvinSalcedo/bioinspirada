@@ -9,7 +9,7 @@ import pandas as pd
 import csv
 
 num_centroildes=10
-I = Image.open("imagenes_entrada/imagenD.bmp")
+I = Image.open("imagenes_entrada/imagenA.bmp")
 #size = 50,50
 #I .thumbnail(size, Image.ANTIALIAS)
 ##I .save(outfile, "JPEG")

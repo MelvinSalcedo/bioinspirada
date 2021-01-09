@@ -454,7 +454,7 @@ void guardar_fichero(){
 
 int main() {
     srand(time(0));
-    CImg<float> img("imagenes_entrada/imagenD.bmp");  // Image definitions.
+    CImg<float> img("imagenes_entrada/imagenA.bmp");  // Image definitions.
 
     //img.resize(15,15);
     img=transform_to_grayscale(img);
